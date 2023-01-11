@@ -32,7 +32,7 @@
     "express": "^4.17.1",
     "express-prometheus-middleware": "git+https://github.com/joao-fontenele/express-prometheus-middleware.git#d177e5834955404d5d38a5cd24d1db8f73f806e4",
     "js-yaml": "^3.13.1",
-    "knex": "^0.20.13",
+    "knex": "^2.4.0",
     "loglevel": "^1.6.7",
     "morgan": "^1.10.0",
     "pg": "^8.0.2",
